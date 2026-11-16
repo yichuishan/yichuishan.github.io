@@ -28,6 +28,10 @@ Coursework includes calculus, linear algebra, probability and statistics, Python
 
 See my [research experience](/research/) and [selected projects](/projects/) for details.
 
+## Patent
+
+**An Adaptive Adjustment Method for Dilated Convolution** — first inventor. Chinese patent number: **ZL 2024 1 0530741.4**.
+
 ## Professional experience
 
 ### Ropedia Laboratory

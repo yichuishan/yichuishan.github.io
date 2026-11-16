@@ -15,7 +15,7 @@ All content and the downloadable CV are committed here; no cloud workspace or ch
 - `_data/navigation.yml`: navigation links.
 - `assets/css/profile.css`: personal styling.
 
-Dates and achievements reflect the supplied 2026 CV. SAMNet is thesis research, not listed as an accepted publication. No paper URLs or patent numbers were supplied. The avatar uses initials until a portrait is added. Template example collections and pages are excluded from the published site in `_config.yml`.
+Dates and achievements reflect the supplied 2026 CV. SAMNet is thesis research, not listed as an accepted publication. Chinese patent number ZL 2024 1 0530741.4 was supplied by the author. No verified paper URL has been supplied. The avatar uses initials until a portrait is added. Template example collections and pages are excluded from the published site in `_config.yml`.
 
 ## Develop locally
 

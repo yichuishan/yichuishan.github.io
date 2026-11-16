@@ -28,7 +28,7 @@ My interests span **motion retargeting, dexterous manipulation, and language-mod
 
 **[SAMNet: Semantic-Aware Motion Retargeting](/research/#samnet)** — My undergraduate thesis explores semantic-aware skeletal conditioning and a canonical motion space for cross-skeleton motion transfer.
 
-**[Adaptive dilated convolution](/research/#adaptive-dilated-convolution)** — First-inventor research on automatically selecting dilation rates, leading to a published patent.
+**[Adaptive dilated convolution](/research/#adaptive-dilated-convolution)** — First-inventor research on automatically selecting dilation rates, leading to Chinese patent **ZL 2024 1 0530741.4**.
 
 **[Qwen3-8B for mathematical tasks](/projects/#qwen3-math)** — LoRA fine-tuning with MindSpeed-LLM; awarded the Cloud Star Award in the China Telecom AI Yunxirang Cup Competition (top 1%).
 
