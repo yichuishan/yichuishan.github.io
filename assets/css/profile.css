@@ -1,0 +1,6 @@
+.profile-intro { border-top: 3px solid #2d7b88; padding: 1.4rem 0 .6rem; }
+.profile-eyebrow { color: #2d7b88; font-size: .75em; letter-spacing: .08em; text-transform: uppercase; font-weight: 700; }
+.page__content h2 { margin-top: 2em; padding-bottom: .35em; border-bottom: 1px solid var(--global-border-color, #ddd); }
+.page__content p, .page__content li { line-height: 1.75; }
+.profile-intro .btn { margin: .4em .4em .4em 0; }
+.author__avatar img { border-radius: 50%; }
